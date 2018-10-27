@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body {
+	background-color: black;
+	margin: 0 auto;
+	font-size: 18px;
+}
+
+header {
+	height: 105px;
+	padding: 0px;
+	margin: 0 auto;
+	background-color: #3D3D3D;
+	color: Orange;
+	align-items: center;
+}
+
+p {
+	color: #F15802;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.sign {
+	font-size: 80px;
+	font-family: 'Merriweather', serif, sans-serif;
+}
+
+.img {
+
+}
+
+.greetings {
+	font-size: 18px;
+}
+
+.recipient {
+	color: gray;
+}
+
+footer {
+	color: gray;
+	font-size: .8em;
+}
